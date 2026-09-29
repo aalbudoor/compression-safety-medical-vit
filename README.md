@@ -1,4 +1,4 @@
-# TinyML Medical ViT Compression for Diagnostic-Safe Edge Dermatology
+# Compression Safety for Medical Vision Transformers on HAM10000
 
 This repository contains a full TinyML-style medical imaging project on compressing skin-lesion classifiers for edge deployment while tracking diagnostic safety, especially melanoma sensitivity.
 
